@@ -95,5 +95,5 @@ Parameters:
 - PPO
 - A2C
 - A3C
-- Train for better optimum score by using best model according to experiences
+- Train to get better optimum score by using best model according to experiences
 ```
